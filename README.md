@@ -6,6 +6,6 @@ This is a practice on Styling frontend with Bootstrap
   CSS saves a lot of work. It can control the layout of multiple web pages all at once
   External stylesheets are stored in CSS files
 
- ![screenshot](Screenshot.jpg)
+ ![screenshot](Screenshot.png.jpg)
 
 
